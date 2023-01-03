@@ -34,7 +34,6 @@ app.post("/bmicalculator", function(req, res) {
 });
 
 
-    
 //spin up this server.....
 app.listen(3000, function (){
   console.log("Server is running on 3000.");
